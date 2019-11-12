@@ -1,17 +1,17 @@
 # TechnicalAssignment
 External Libraries used:
--WebSocket
--HTTP
+1. WebSocket
+2. HTTP
 
 Run instructions:
 
--The solution was developed using Node.js
--Before index.js please install the libraries using 
--node install websocket --save 
--node install http --save
+1. The solution was developed using Node.js
+2. Before index.js please install the libraries using 
+3. node install websocket --save 
+4. node install http --save
 
 To run the server command is:
--node index.js
--the client init.js file is modified
+1. node index.js
+2. the client init.js file is modified
 
 *game.js and index.js are the solution files
